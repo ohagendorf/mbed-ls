@@ -159,6 +159,7 @@ class MbedLsToolsBase:
         "0799": "ST_PLACEHOLDER",
         "0805": "DISCO_L053C8",
         "0810": "DISCO_F334C8",
+        "0812": "NUCLEO_F722ZE",
         "0813": "NUCLEO_H743ZI",
         "0815": "DISCO_F746NG",
         "0816": "NUCLEO_F746ZG",
